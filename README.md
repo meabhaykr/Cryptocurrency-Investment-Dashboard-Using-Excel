@@ -1,6 +1,6 @@
 <h1 align="center">Cryptocurrency Investment Dashboard 📊</h1>
 
-![Dashboard Image](https://github.com/meabhaykr/Cryptocurrency-Dashboard-Using-Excel/blob/main/Dashboard%20Image.png)
+![Dashboard Image](https://github.com/meabhaykr/Cryptocurrency-Investment-Dashboard-Using-Excel/blob/main/Dashboard%20Image.png)
 
 ## Overview
 
