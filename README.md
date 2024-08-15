@@ -24,7 +24,7 @@ Welcome to the **Cryptocurrency Investment Dashboard**! This project provides a 
 
 1. **Clone the repository:**
     ```bash
-    git clone https://github.com/your-username/Cryptocurrency-Investment-Dashboard.git
+    git clone https://github.com/meabhaykr/Cryptocurrency-Investment-Dashboard-Using-Excel.git
     ```
 
 2. **Open the Excel file:**
